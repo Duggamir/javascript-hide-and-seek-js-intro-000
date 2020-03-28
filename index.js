@@ -21,5 +21,6 @@ function increaseRankBy(n)
 function deepestChild()
 {
   var depth = 0
-  return document.querySelector
+  var deepestNode
+  var document.querySelector
 }
