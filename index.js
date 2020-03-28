@@ -26,7 +26,7 @@ function deepestChild()
     var list2 = list[i].querySelectorAll('div')
     while (!list2 === null)
     {
-      return 
+      return
     }
   }
 }
