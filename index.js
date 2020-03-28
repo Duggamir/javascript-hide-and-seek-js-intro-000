@@ -22,5 +22,5 @@ function deepestChild()
 {
   var depth = 0
   var deepestNode
-  var document.querySelector
+  document.querySelector
 }
