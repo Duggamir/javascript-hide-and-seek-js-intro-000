@@ -23,10 +23,9 @@ function deepestChild()
   var list = document.querySelectorAll('.grand-node div')
   for (let i = 0; i < list.length; i++)
   {
-    var list2 = list[i].querySelectorAll('div')
-    while (!list2 === null)
+    while (!list[i].innerHTML === null)
     {
-      return
+      return list[i].innerHTML
     }
   }
 }
